@@ -13,4 +13,8 @@ Split the dataset into training and testing datasets.
 **# Modeling**
 Used various machine learning models for prediction such as Logistic Regression, SVM, KNN, and Naive Bayes and compared the performance of each model.
 
+HOW TO RUN
+
+Download the code file and csv file which has the dataset. Download the Jupyter Notebook to and open the code file using Jupyter Notebook.
+Update the path of csv file in the code and run the code.
 
